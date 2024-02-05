@@ -2,7 +2,7 @@
     "name": "@stirling-tools/joi",
     "description": "Object schema validation",
     "version": "17.12.0",
-    "repository": "git://github.com/hapijs/joi",
+    "repository": "https://github.com/Stirling-Tools/joi",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "browser": "dist/joi-browser.min.js",
