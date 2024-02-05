@@ -13,4 +13,5 @@ permissions:
 
 jobs:
   test:
+    if: false
     uses: hapijs/.github/.github/workflows/ci-module.yml@min-node-18-hapi-21

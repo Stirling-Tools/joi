@@ -1,5 +1,5 @@
 {
-    "name": "joi",
+    "name": "@stirling-tools/joi",
     "description": "Object schema validation",
     "version": "17.12.0",
     "repository": "git://github.com/hapijs/joi",
